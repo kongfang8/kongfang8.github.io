@@ -1,6 +1,16 @@
-## Welcome to ZZApiTools - Good Assistant
+## 彩票推荐-官方权威信赖的彩票平台
 
-Through this application you can easily test to check the status of their own website API, to facilitate each engineer to test their own Web site interface. The program supports website classification, test history, and with a complete network status table, so that when you work to find information faster.
+#【软件简介】
+
+   本应用为广大彩民量身定制的手机彩票客户端，是重庆时时彩、七乐彩、排列3、11选5，各个彩种游戏的专业服务平台，还为移动端用户提供专业的彩票资讯、数据分析、技巧研究等服务，安全、优质、高效的移动互联网个性化彩票服务终端。下一个中大奖的会是您吗？梦想还是要有的，万一中了呢，500万大奖不是梦。
+
+#【特色功能】
+
+1.个性化首页：献给独一无二的你
+2.开奖结果：及时展示结果，中奖消息早知道。
+3.交流平台：专家在线与彩民交流，分享中奖心得。
+4.中奖推送：最快更新彩票开奖公告，彩票开奖号码自动推送通知，您第一时间得知彩票中奖消息。随时随地查询全国开奖号码，随时关注中奖信息。
+此App主要功能是提供用户查询彩票开奖信息，以及彩票相关资讯。不提供购买彩票功能！特此声明此app所有内容均与苹果公司无关。.
 
 
 ### Support or Contact
