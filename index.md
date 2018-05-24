@@ -13,6 +13,6 @@
 此App主要功能是提供用户查询彩票开奖信息，以及彩票相关资讯。不提供购买彩票功能！特此声明此app所有内容均与苹果公司无关。.
 
 
-### Support or Contact
+### 支持信息
 
-Having trouble with App? Check out our [contact support Email](mailto:ehx382@163.com) and we’ll help you sort it out.
+Copyright © 2017 莆田悦丰网络有限公司 版权所有.
